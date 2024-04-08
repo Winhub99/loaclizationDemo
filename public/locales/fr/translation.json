@@ -1,0 +1,7 @@
+{
+    "greeting": "Bonjour, bienvenue!",
+    "description":{
+        "line1":"Bienvenue dans mon quartier,<1>{{locality}}</1>" ,
+        "line2":"C'est un endroit international."
+    }
+}
